@@ -1,0 +1,8 @@
+{
+  "name": "css-reset",
+  "description": "This CSS Reset, inspired by Tailwind CSS's Preflight, provides foundational styles for clean web projects by removing default browser styles",
+  "version": "1.0.0",
+  "author": "Gui Domingues <hello@guidomingues.com>",
+  "repository": "https://github.com/guidominguesnk/css-reset",
+  "license": "MIT"
+}
